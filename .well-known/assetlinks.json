@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.proff525design.rebusden",
+      "sha256_cert_fingerprints": [
+        "34:1C:E4:E2:A7:4B:3E:9B:AB:4F:10:A5:1F:8B:CC:A9:2B:F7:A1:B8:93:E3:03:8B:40:AA:AC:FA:6F:44:60:F0"
+      ]
+    }
+  }
+]
